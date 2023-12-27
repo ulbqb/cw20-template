@@ -3,11 +3,6 @@ name = "{{project-name}}"
 version = "0.1.0"
 authors = ["{{authors}}"]
 edition = "2021"
-description = "Basic implementation of a CosmWasm-20 compliant token"
-license = "Apache-2.0"
-repository = "https://github.com/CosmWasm/cw-plus"
-homepage = "https://cosmwasm.com"
-documentation = "https://docs.cosmwasm.com"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
